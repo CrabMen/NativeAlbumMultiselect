@@ -1,0 +1,2 @@
+# NativeAlbumMultiselect
+使用AssetsLibrary.framework框架实现对苹果图库的多选
